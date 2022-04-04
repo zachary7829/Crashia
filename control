@@ -1,0 +1,10 @@
+Package: com.zachary7829.crashia
+Name: Crashia
+Author: zachary7829
+Description: Select certain apps to crash on open
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), ws.hbang.common, com.spark.libsparkapplist
+Conflicts: firmware (>= 15.0)
+Maintainer: zachary7829
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
